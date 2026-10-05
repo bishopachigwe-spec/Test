@@ -1,0 +1,175 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>inMotion Media (/inmotion) · solo.to</title>
+<meta property="og:title" content="inMotion Media (/inmotion) · solo.to">
+<meta name="description" content="Empowering creators with the art of visual storytelling. Inspire the creator in you. #ShotsInMotion">
+<meta property="og:description" content="Empowering creators with the art of visual storytelling. Inspire the creator in you. #ShotsInMotion">
+<meta property="og:image" content="https://cdn.solo.to/og/inmotion.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#3673FC">
+<meta name="csrf-token" content="BST7L8NccrbYZoQRKTOoOHn2MRxT5r4Y8GGFb2YL">
+<link href="https://cdn.solo.to/images/favicon.png" rel="shortcut icon" type="image/x-icon">
+<link href="https://cdn.solo.to/user/a/sm/66112be4a0c7e2_14167970.jpg" rel="apple-touch-icon">
+<link href="https://solo.to/inmotion" rel="canonical">
+<link href="/css/vendor.css?i=e151e5eb" rel="stylesheet" type="text/css">
+<link href="/css/app.css?i=9bf060d6" rel="stylesheet" type="text/css">
+</head>
+<body class="">
+<div class="modal-wrapper modal-wrapper-share" id="share-modal">
+<div class="modal-content-card modal-content-card-share">
+<div class="share-modal-title-wrapper">Share this page<div class="upgrade-modal-close-button upgrade-modal-close-button-static w-inline-block"><img src="https://cdn.solo.to/images/dashboard/link-close-icon.svg"></div></div>
+<div class="share-modal-content">
+<div class="share-modal-button" id="share-facebook"><div class="share-modal-button-details"><img src="https://cdn.solo.to/images/social/facebook-fill.svg" class="share-modal-button-icon">Facebook</div><img src="https://cdn.solo.to/images/home/sharp-arrow.svg" class="share-modal-button-arrow"></div>
+<div class="share-modal-button" id="share-x"><div class="share-modal-button-details"><img src="https://cdn.solo.to/images/social/x-fill.svg" class="share-modal-button-icon">X</div><img src="https://cdn.solo.to/images/home/sharp-arrow.svg" class="share-modal-button-arrow"></div>
+<div class="share-modal-button" id="share-linkedin"><div class="share-modal-button-details"><img src="https://cdn.solo.to/images/social/linkedin-fill.svg" class="share-modal-button-icon">LinkedIn</div><img src="https://cdn.solo.to/images/home/sharp-arrow.svg" class="share-modal-button-arrow"></div>
+<div class="share-modal-button" id="share-whatsapp"><div class="share-modal-button-details"><img src="https://cdn.solo.to/images/social/whatsapp-fill.svg" class="share-modal-button-icon">WhatsApp</div><img src="https://cdn.solo.to/images/home/sharp-arrow.svg" class="share-modal-button-arrow"></div>
+<div class="share-modal-button" id="share-messenger"><div class="share-modal-button-details"><img src="https://cdn.solo.to/images/social/messenger-fill.svg" class="share-modal-button-icon">Messenger</div><img src="https://cdn.solo.to/images/home/sharp-arrow.svg" class="share-modal-button-arrow"></div>
+<div class="share-modal-button" id="share-email"><div class="share-modal-button-details"><img src="https://cdn.solo.to/images/social/email-fill.svg" class="share-modal-button-icon">Email</div><img src="https://cdn.solo.to/images/home/sharp-arrow.svg" class="share-modal-button-arrow"></div><a href="#" id="mail-link" style="display:none"></a>
+<div class="share-modal-button" id="share-qr"><div class="share-modal-button-details"><img src="https://cdn.solo.to/images/social/qr-fill.svg" class="share-modal-button-icon">QR Code</div><img src="https://cdn.solo.to/images/home/sharp-arrow.svg" class="share-modal-button-arrow"></div>
+<div class="page-share-link-copy"><div class="affiliate-start-link-button w-inline-block noselect" id="copy-link">copy</div><div class="page-share-link-url-wrapper"><div id="copy-link-page">solo.to/inmotion</div></div><div class="affiliate-start-link-overlay noselect"><img src="https://cdn.solo.to/images/checkmark.svg" class="affiliate-start-link-overlay-icon">copied</div></div>
+<div class="page-share-report" id="report"><div class="page-share-report-header"><img src="https://cdn.solo.to/images/flag.svg" class="page-share-report-icon"><div class="page-share-report-title">Report Page</div></div><img src="https://cdn.solo.to/images/home/sharp-arrow.svg" class="page-share-report-arrow"></div>
+<div class="page-share-report page-share-report-sent" style="display:none"><div class="page-share-report-header"><img src="https://cdn.solo.to/images/checkmark.svg" class="page-share-report-icon page-share-report-icon-sent">Report Sent</div></div>
+</div>
+</div>
+<div class="modal-content-card modal-content-card-share" style="display:none">
+<div class="share-modal-title-wrapper">Report Page<div class="upgrade-modal-close-button upgrade-modal-close-button-static w-inline-block"><img src="https://cdn.solo.to/images/dashboard/link-close-icon.svg"></div></div>
+<form id="report-form" name="report-form" method="POST" action="#">
+<div class="modal-message-wrapper modal-message-wrapper-report"><div class="blank-form-block w-form"><textarea placeholder="Describe why this page should be removed..." maxlength="250" id="report-info" name="report-info" class="text-field-on-white text-field-report w-input" autocomplete="off" required></textarea></div></div>
+<div class="modal-confirm-button-wrapper modal-confirm-button-wrapper-less-padding"><button type="submit" class="button button-small button-full-width w-inline-block" id="report-send">Send Report</button></div>
+</form>
+</div>
+</div>
+<div class="modal-wrapper modal-wrapper-share" id="qr-modal"><div class="modal-content-card modal-content-card-share"><div class="qr-code-wrapper qr-code-wrapper-page"><div id="qr-code" class="qr-code" style=""></div><div class="qr-url">solo.to/inmotion</div><div class="upgrade-modal-close-button w-inline-block"><img src="https://cdn.solo.to/images/dashboard/link-close-icon.svg"></div></div></div></div>
+<div class="page-wrapper page-wrapper-linkpage">
+<div class="profile-bg-hero-wrapper" style="background-image:none;background-color:#050505">
+<div class="page-share w-inline-block"><img src="https://cdn.solo.to/images/share-icon.svg" class="page-share-icon"></div>
+</div>
+<div class="section info-card"><div class="section-container"><div class="profile-info-wrapper">
+<div class="profile-info-top-wrapper"><div class="profile-image-wrapper">
+<picture><source media="(max-width:479px)" srcset="https://cdn.solo.to/user/a/sm/66112be4a0c7e2_14167970.jpg"><img src="https://cdn.solo.to/user/a/66112be4a0c7e2_14167970.jpg" decoding="async" class="profile-image"></picture>
+</div></div>
+<div class="profile-info-bottom-wrapper">
+<div class="profile-name-wrapper">
+<h1 class="profile-name">inMotion Media</h1>
+</div>
+<p class="profile-bio">Empowering creators with the art of visual storytelling. Inspire the creator in you. #ShotsInMotion</p>
+</div>
+<div class="contact-button-wrapper">
+<a href="#" data-em="aW5tb3Rpb25tZWRpYW5nJTQwZ21haWwuY29t" class="contact-button w-inline-block"><img src="https://cdn.solo.to/images/contact/email-min.svg" class="contact-button-image"><div class="contact-button-text">Email</div></a>
+<a href="sms:+2348160406660" class="contact-button w-inline-block"><img src="https://cdn.solo.to/images/contact/text-min.svg" class="contact-button-image"><div class="contact-button-text">Text</div></a>
+<a id="telegram" href="https://t.me/inmotion_media" class="contact-button w-inline-block"><img src="https://cdn.solo.to/images/contact/telegram-min.svg" class="contact-button-image"><div class="contact-button-text">Telegram</div></a>
+</div>
+</div></div></div>
+<div class="section link-section"><div class="section-container"><div class="profile-link-wrapper">
+<div class="link-item-wrapper">
+<a href="https://whatsapp.com/channel/0029Vacs4vb4dTnAKuUSuH32" id="MTAwNTkwNzU" class="link-button w-inline-block">
+<div class="link-icon-float link-icon-float-circle" style="box-shadow:0 8px 14px -4px rgba(37,211,102,0.65)">
+<img src="https://cdn.solo.to/images/link/whatsapp.svg" class="link-icon-float-image link-icon-float-image-circle">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">WhatsApp Channel (inMotion Media)</div>
+<div class="link-url">whatsapp.com/channel/0029Vacs4vb4dTnAKuUSuH32</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="https://www.youtube.com/@inmotionng" id="ODcyNTY5Ng" class="link-button w-inline-block">
+<div class="link-icon-float link-icon-float-circle" style="box-shadow:0 8px 14px -4px rgba(230,33,23,0.65)">
+<img src="https://cdn.solo.to/images/link/youtube.svg" class="link-icon-float-image link-icon-float-image-circle">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">YouTube</div>
+<div class="link-url">youtube.com/@inmotionng</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="https://www.instagram.com/inmotion.ng" id="ODcyNTY5Nw" class="link-button w-inline-block">
+<div class="link-icon-float link-icon-float-circle" style="box-shadow:0 8px 14px -4px rgba(202,109,120,0.65)">
+<img src="https://cdn.solo.to/images/link/instagram.svg" class="link-icon-float-image link-icon-float-image-circle">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">Instagram</div>
+<div class="link-url">instagram.com/inmotion.ng</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="https://www.facebook.com/inmotion.ng" id="ODcyNTY5OQ" class="link-button w-inline-block">
+<div class="link-icon-float link-icon-float-circle" style="box-shadow:0 8px 14px -4px rgba(24,119,242,0.65)">
+<img src="https://cdn.solo.to/images/link/facebook.svg" class="link-icon-float-image link-icon-float-image-circle">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">Facebook</div>
+<div class="link-url">facebook.com/inmotion.ng</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="https://www.tiktok.com/@inmotion.ng" id="ODcyNTY5OA" class="link-button w-inline-block">
+<div class="link-icon-float link-icon-float-circle" style="box-shadow:0 8px 14px -4px rgba(80,80,80,0.65)">
+<img src="https://cdn.solo.to/images/link/tiktok.svg" class="link-icon-float-image link-icon-float-image-circle">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">TikTok</div>
+<div class="link-url">tiktok.com/@inmotion.ng</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="https://www.linkedin.com/company/inmotionng/" id="ODcyNTcwMA" class="link-button w-inline-block">
+<div class="link-icon-float link-icon-float-circle" style="box-shadow:0 8px 14px -4px rgba(0,119,181,0.65)">
+<img src="https://cdn.solo.to/images/link/linkedin.svg" class="link-icon-float-image link-icon-float-image-circle">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">LinkedIn</div>
+<div class="link-url">linkedin.com/company/inmotionng/</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="https://t.me/inmotionng" id="ODcyNTc1Mw" class="link-button w-inline-block">
+<div class="link-icon-float link-icon-float-circle" style="box-shadow:0 8px 14px -4px rgba(83,164,211,0.65)">
+<img src="https://cdn.solo.to/images/link/telegram.svg" class="link-icon-float-image link-icon-float-image-circle">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">Telegram</div>
+<div class="link-url">t.me/inmotionng</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+<div class="link-item-wrapper">
+<a href="https://pin.it/zk5LOX3QL" id="ODc1MTc5OQ" class="link-button w-inline-block">
+<div class="link-icon-float link-icon-float-circle" style="box-shadow:0 8px 14px -4px rgba(200,35,44,0.65)">
+<img src="https://cdn.solo.to/images/link/pinterest.svg" class="link-icon-float-image link-icon-float-image-circle">
+</div>
+<div class="link-block-text-wrapper">
+<div class="link-name">Pin Interest</div>
+<div class="link-url">pin.it/zk5LOX3QL</div>
+</div>
+<div class="link-arrow-wrapper"><img src="https://cdn.solo.to/images/link-button-arrow.svg" class="link-arrows"></div>
+</a>
+</div>
+</div></div></div>
+</div>
+<div class="page-footer"><a href="https://solo.to/" class="linkpage-cta w-inline-block"><img src="https://cdn.solo.to/images/logo/solo-icon.svg" width="170" class="footer-brand-image">create your own page</a></div>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script><script>window.jQuery||document.write('<script src="/js/jquery-3.7.1.js"><\/script>')</script>
+<script>const i18n = { }</script><script src="/js/page.js?i=9c0b5dbf"></script>
+<script src="/js/prefetch.js?i=dc93443b" type="module"></script>
+</body>
+</html>
+<!--・。.・⁺· design © 2026 solo.to ·⁺・。.・-->
